@@ -1,0 +1,21 @@
+.AccordionTitle {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 55px;
+    text-align: center;
+    color: #1C4981;
+    
+
+}
+
+
+
+
+.AccordionContainer {
+    display: block;
+    margin: 30px auto;
+    max-width: 70%;
+
+}

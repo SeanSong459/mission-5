@@ -1,0 +1,12 @@
+.FormContainer {
+    max-width: 750px;
+    margin: 30px auto;
+}
+
+.BottomFormText {font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    margin-top: 60px;  
+}

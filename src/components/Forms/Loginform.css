@@ -1,0 +1,35 @@
+.LoginContainer {
+
+    max-width: 40%;
+    margin:200px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.LoginTitle {
+    display: flex;
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 2.5rem;
+line-height: 57px;
+
+color: #3F3F3F;
+margin:20px auto;
+}
+
+.LoginLeftContainer{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.SocialButtonContainer {
+
+margin-top: 87px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 150px;
+}

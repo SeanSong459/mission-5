@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+
+
+.card {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 250px;
+    height: 400px;
+    border-radius: 20px;
+    background-color: #f4faff;
+    padding: 33px 25px 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.062), 0 6px 20px 0 rgba(0, 0, 0, 0.082);
+
+}
+
+.CardTitle { 
+
+
+  width: 210px;
+  height: 36px;
+  margin: 0 0 44px;
+  font-family: "Manrope";
+  font-size: 26px;
+  font-weight: bold;
+  text-align: center;
+  color: #1c4981;
+
+}
+
+.CardContent {
+    /* width: 174px;
+  height: 88px;
+  margin: 44px 21px 109px 15px; */
+  font-family: Manrope;
+  font-size: 16px;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+
+}
+
+.CardButton {
+
+    width: 144px;
+    height: 40px;
+    margin: 109px 33px 0;
+    padding: 6px 28px 7px;
+    border-radius: 20px;
+    background-color: #3375ba;
+    color: #f4faff;
+    cursor: pointer;
+    border: none;
+}
+
