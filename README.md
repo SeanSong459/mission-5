@@ -7,7 +7,7 @@ __Highlight__
 - Yup for validation
 - Google authentication through Firebase
 - Firestore for the database
-- Github actions for CICD
+- Github Actions for CICD
 - Hosted on Firebase
 
 https://user-images.githubusercontent.com/98294710/175273168-afa5bdf6-fee8-4754-b229-32a810e0ce1c.mp4
