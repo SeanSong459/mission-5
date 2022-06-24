@@ -1,4 +1,4 @@
-This project, which is part of Mission Ready's Advanced Software Development course, aims to enhance user experience on the Turners Car website. Together with another UX designer, I created this insurance page and form page within one week.
+This project, which is part of Mission Ready's Advanced Software Development course, aims to enhance user experience on the Turners Car website. Together with another UX designer, I created this insurance page and form page within a week.
 
 Highlights include a multi-step form that uses Formik with stepper, Yup for validation, Google authentication through Firebase, Firestore for the database, Github actions for CICD and deployed on Firebase.
 
